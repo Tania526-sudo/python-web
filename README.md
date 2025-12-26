@@ -14,7 +14,7 @@ The app supports **image upload**, shows the input image, provides **class proba
 
 ---
 
-## Why this project (for hiring)
+## Why this project
 This project demonstrates practical skills in:
 - Building a simple **ML web app** for inference and visualization
 - Packaging and loading trained **TensorFlow/Keras** models (`.keras`)
@@ -34,3 +34,4 @@ Show training curves (loss/accuracy) from saved history JSON files
 ---
 
 ## Project structure
+
